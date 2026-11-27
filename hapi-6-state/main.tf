@@ -30,7 +30,7 @@ locals {
     projekti = "FakultetiApp"
     studenti = var.emri
     krijuar  = "terraform"
-    viti = "2026"
+    viti     = "2026"
   }
 }
 
